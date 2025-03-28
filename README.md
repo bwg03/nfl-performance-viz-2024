@@ -10,7 +10,7 @@ A Tableau data visualization project analyzing all 32 NFL teams in the 2024 seas
 
 ## 🔗 Live Dashboard
 
-👉 View it on Tableau Public:[Dashboard Link](https://public.tableau.com/app/profile/benjamin.gobel7321/viz/NFLDashboards-2024Season/NFL2024TeamPowerBalanceandIdentity?publish=yes)
+👉 View it on Tableau Public: [Dashboard Link](https://public.tableau.com/app/profile/benjamin.gobel7321/viz/NFLDashboards-2024Season/NFL2024TeamPowerBalanceandIdentity?publish=yes)
 
 ## 📁 Dataset
 
