@@ -1,6 +1,6 @@
 # 🏈 NFL 2024 Team Performance Dashboard
 
-A Tableau data visualization project analyzing all 32 NFL teams in the 2024 season using offensive, defensive, and balance metrics.
+Basic Tableau data visualization project analyzing all 32 NFL teams in the 2024 season using offensive, defensive, and balance metrics.
 
 ## 📊 Dashboard Overview
 
