@@ -10,11 +10,11 @@ A Tableau data visualization project analyzing all 32 NFL teams in the 2024 seas
 
 ## 🔗 Live Dashboard
 
-👉 [View it on Tableau Public](https://public.tableau.com/views/YourDashboardHere)
+👉 [View it on Tableau Public]([https://public.tableau.com/views/YourDashboardHere](https://public.tableau.com/views/NFLDashboards-2024Season/NFL2024TeamPowerBalanceandIdentity?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## 📁 Dataset
 
-Original dataset: [NFL Team Stats 2002–2024 (Kaggle)](https://www.kaggle.com/datasets/marcusbaumann/nfl-team-stats-2009-2022)
+Original dataset: [NFL Team Stats 2002–2024 (Kaggle)](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn?resource=download) 
 
 Cleaned/processed data used: see `nfl_team_stats_2024_cleaned.csv`
 
