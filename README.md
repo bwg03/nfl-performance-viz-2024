@@ -16,7 +16,7 @@ A Tableau data visualization project analyzing all 32 NFL teams in the 2024 seas
 
 Original dataset: [NFL Team Stats 2002–2024 (Kaggle)](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn?resource=download) 
 
-Cleaned/processed data used: see `nfl_team_stats_2024_cleaned.csv`
+Cleaned/processed data used: see `nfl_team_stats_2024_cleaned.xslx`
 
 ## 📌 Skills Demonstrated
 
